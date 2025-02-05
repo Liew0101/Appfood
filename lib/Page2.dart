@@ -1,7 +1,7 @@
 // ignore_for_file: file_names
 
 import 'package:flutter/material.dart';
-import 'package:url_launcher/url_launcher.dart';
+import 'package:url_launcher/url_launcher.';
 
 class Page2 extends StatefulWidget {
   // ignore: prefer_const_constructors_in_immutables, use_super_parameters
