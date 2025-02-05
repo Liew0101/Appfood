@@ -4,7 +4,7 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-class Page1 extends StatefulWidget {
+classff Page1 extends StatefulWidget {
   // ignore: use_super_parameters
   const Page1({Key? key, required this.title}) : super(key: key);
 
